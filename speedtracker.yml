@@ -1,9 +1,9 @@
 #
-#             ____                ________             __          
+#             ____                ________             __
 #            / __/__  ___ ___ ___/ /_  __/______ _____/ /_____ ____
 #           _\ \/ _ \/ -_) -_) _  / / / / __/ _ `/ __/  '_/ -_) __/
-#           ___/ .__/\__/\__/\_,_/ /_/ /_/  \_,_/\__/_/\_\\__/_/   
-#             /_/                                                  
+#           ___/ .__/\__/\__/\_,_/ /_/ /_/  \_,_/\__/_/\_\\__/_/
+#             /_/
 #                          https://speedtracker.org
 #
 
@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "YOUR_ENCRYPTED_KEY"
+encryptionKey: "406f60d5e930"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,12 +50,12 @@ encryptionKey: "YOUR_ENCRYPTED_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+wptKey: "652832969e723502cb73857a0125ac26b753656fdcc2c03d6050607134fa58f36b62"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                             #
-#  > wptUrl                                                   (!) Encrypted   #
+#  > wptUrl                                                                   #
 #                                                                             #
 #  The URL for the WebPageTest server to be used in the tests. If you're      #
 #  running a private instance, uncomment the line and insert the URL to your  #
@@ -63,7 +63,7 @@ wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#wptUrl: "YOUR_ENCRYPTED_WPT_INSTANCE_URL"
+#wptUrl: "https://www.webpagetest.org"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
